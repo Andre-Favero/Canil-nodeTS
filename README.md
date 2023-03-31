@@ -8,7 +8,7 @@ Passo a passo de como postar o prime nas lojas mobile, PlayStore e AppStore
 
 1. Criar app na loja
    - Nome da empresa
-    - marcar a opção **"App"**
-    - marcar a opção **"Gratuito"**
+        - marcar a opção **"App"**
+        - marcar a opção **"Gratuito"**
 
 
