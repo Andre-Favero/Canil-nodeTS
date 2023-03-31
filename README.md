@@ -1,13 +1,10 @@
 # Postagem nas lojas
 
-Passo a passo de como postar o prime nas lojas mobile, playStore e AppStore
+Passo a passo de como postar o prime nas lojas mobile, PlayStore e AppStore
 
-**Playstore**
-`npm i -g nodemon typescript ts-node`
+## Playstore
 
-### instalação
-`npm install`
-
-
-### Para rodar o projeto
-`npm run start-dev`
+1. Criar app na loja
+   - Nome da empresa
+     - marcar a opção **"App"**
+      - e também marcar **"Gratuito"**
