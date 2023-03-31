@@ -106,3 +106,55 @@ Passo a passo de como postar o prime nas lojas, PlayStore e AppStore
    - Produção:
       - Países / regiões
          - Marcar todos os paises disponiveis
+
+## AppStore
+
+###### Criação do App
+
+1. Criar app na loja
+   - Nome da empresa
+   - Adicionar mockups 5.5"(iphone 8) e 6.5"(iphone 11 pro max)
+   - Descrição completa:
+         - Aplicativo destinado para agendamento no estabelecimento **"nome do prime"** 
+          - Receba notificações para não esquecer seu agendamento
+          - Acompanhe seu histórico de atendimentos
+          - Visualize os pontos de fidelidade e resgate itens
+
+
+      - Adicionar tag
+            - Exemplo: Nome barbearia, barbearia nome, nome, ....
+      - URL de Suporte:
+         - https://appbarber.com.br
+      - Copyright:
+            - StarApp Sistemas LTDA
+
+      -  Informações para equipe de revisão:
+            - Usuário: prime@starapp.com.br
+            - Senha: 1234
+            - Nota: Connect with the user credentials to have access the schedule tools.
+      - Informações de contato: 
+            - Nome: Vitor
+            - Sobrenome: Porto
+            - telefone: +5549988979898
+            - email: suporte@appbarber.com.br
+
+      - Informações do App:
+         - subtitulo: Agendamento Online
+         - Categorias
+            - Estilo de vida
+            - Saúde e fitness
+         - Não acessa conteúdo de terceiros
+      - Preço
+            - Gratis
+      - Disponibilidade:
+            - todos os paises
+      - MacOS
+            - desmarcar
+      - Preço reduzido para estudantes:
+            - desmarcar
+       - Privacidade:
+               - Adicionar e configurar os mesmos itens da PlayStore de acesso aos dados.
+         
+
+       
+
