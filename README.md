@@ -78,6 +78,10 @@ Passo a passo de como postar o prime nas lojas, PlayStore e AppStore
 
 
 2.  Depois de preencher o conteúdo do app, ainda na aba lateral, vá até **"Crescimento"**
-    - Presença na Loja
-        - 
-
+   - Versão principal da página "Detalhes do app"
+      - Nome do app: nome do prime 
+      - Breve descrição: Aplicativo destinado para agendamento no estabelecimento **"nome do prime"** 
+      - Descrição completa: Aplicativo destinado para agendamento no estabelecimento **"nome do prime"**
+                                    Receba notificações para não esquecer seu agendamento
+                                    Acompanhe seu histórico de atendimentos
+                                    Visualize os pontos de fidelidade e resgate itens
