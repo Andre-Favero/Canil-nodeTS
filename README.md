@@ -1,7 +1,8 @@
-# Canil-nodeTS
+# Postagem nas lojas
 
-Projeto feito para desenvolvimento pessoa usando NODE e Typescript
-### Dependencias globais
+Passo a passo de como postar o prime nas lojas mobile, playStore e AppStore
+
+** Playstore **
 `npm i -g nodemon typescript ts-node`
 
 ### instalação
