@@ -34,6 +34,7 @@ Passo a passo de como postar o prime nas lojas, PlayStore e AppStore
 
         - ID de publicidade:
             - Marcar: Não
+            >
 
         - Apps governamentais:
             - Marcar: Não
@@ -69,11 +70,14 @@ Passo a passo de como postar o prime nas lojas, PlayStore e AppStore
                     - Identificadores do dispositivo e outros - (Obrigatório)
 
             - Uso e tratamento de dados
-                - Marcar: coletados
-                - Marcar: Não, os dados coletados não são processados de maneira efêmera
+                - Marcar: **coletados**
+                - Marcar: **Não**, os dados coletados não são processados de maneira efêmera
                 - Marcar: Obrigatório ou opcional condizendo com a lista acima
-                - Marcar: Funcionalidade do app
+                - Marcar: **Funcionalidade do app**
 
 
 
+2.  Depois de preencher o conteúdo do app, ainda na aba lateral, vá até **"Crescimento"**
+    - Presença na Loja
+        - 
 
