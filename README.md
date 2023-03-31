@@ -19,15 +19,61 @@ Passo a passo de como postar o prime nas lojas, PlayStore e AppStore
         - Política de Privacidade:
             - Adicione o link para o [termo de uso](https://termosdeuso.s3-sa-east-1.amazonaws.com/AppBarber/TermosDeUso_AppBarber.pdf) do aplicativo
 
-
         - Anúncios:
             - Não, meu app não tem anúncios
-
-
-
-
 
         - Público-alvo e conteúdo:
             - Marcar: 13 a 15, 16 a 17 e Maiores de 18 anos
             - Marcar: O App não é atrativo para crianças;
+
+        - Apps de notícias:
+            - Marcar: Não
+
+        - Apps de status e monitoramento de contatos com COVID-19:
+            - Marcar: Meu app não tem a finalidade de monitorar contatos ou de exibir o status do teste de COVID-19 nem está disponível publicamente
+
+        - ID de publicidade:
+            - Marcar: Não
+
+        - Apps governamentais:
+            - Marcar: Não
+
+        - Classificações de conteúdo:
+            - E-mail: Contato@starapp.com.br
+            - Marcar: Todos os Outros Tipos de Aplicações
+            - Questionário: Marcar **NÃO** para todas as opções
+
+        - Acesso de apps:
+            - Marcar: Todas ou algumas funcionalidades do app são restritas.
+                - Vá em "Adicionar instruções"
+                    - Nome da instrução: **"Login"**
+                    - Nome de usuário e senha
+                        - E-mail: prime@starapp.com.br
+                        - Senha: 1234
+                    - Caixa de texto abaixo
+                        -  Coloque a seguinte frase: "Connect with the user credentials to have access the schedule tools."
+                    - Marque a opção
+                        - Nenhuma outra informação é necessária para acessar meu app
+        
+        - Segurança dos dados:
+            - Coleta de dados e segurança:
+                - Marcar: Sim para todas as opções
+            - Tipos de dados: 
+                - Informações Pessoais:
+                    - Nome - (Obrigatório)
+                    - Endereço de E-mail - (Obrigatório)
+                    - IDs de usuário - (Opcional)
+                - Fotos e videos
+                    - Fotos - (Opcional)
+                - Identificadores do dispositivo e outros:
+                    - Identificadores do dispositivo e outros - (Obrigatório)
+
+            - Uso e tratamento de dados
+                - Marcar: coletados
+                - Marcar: Não, os dados coletados não são processados de maneira efêmera
+                - Marcar: Obrigatório ou opcional condizendo com a lista acima
+                - Marcar: Funcionalidade do app
+
+
+
 
