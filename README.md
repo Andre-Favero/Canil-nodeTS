@@ -2,7 +2,7 @@
 
 Passo a passo de como postar o prime nas lojas mobile, playStore e AppStore
 
-** Playstore **
+**Playstore**
 `npm i -g nodemon typescript ts-node`
 
 ### instalação
