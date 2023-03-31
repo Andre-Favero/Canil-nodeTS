@@ -16,7 +16,11 @@ Passo a passo de como postar o prime nas lojas, PlayStore e AppStore
 
 1. Dentro do aplicativo criado, na aba lateral desça até "Politicas e programas"
     - Conteúdo do app
-        - Política de Primacidade:
+        - Política de Privacidade:
             - Adicione o link para o [termo de uso](https://termosdeuso.s3-sa-east-1.amazonaws.com/AppBarber/TermosDeUso_AppBarber.pdf) do aplicativo
+
+
+        - Anúncios:
+            - Não, meu app não tem anúncios
 
 
