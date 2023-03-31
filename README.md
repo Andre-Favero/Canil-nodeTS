@@ -34,7 +34,7 @@ Passo a passo de como postar o prime nas lojas, PlayStore e AppStore
 
         - ID de publicidade:
             - Marcar: Não
-            >
+            >__________________________________________________________________________________________
 
         - Apps governamentais:
             - Marcar: Não
