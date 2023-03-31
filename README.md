@@ -24,3 +24,10 @@ Passo a passo de como postar o prime nas lojas, PlayStore e AppStore
             - Não, meu app não tem anúncios
 
 
+
+
+
+        - Público-alvo e conteúdo:
+            - Marcar: 13 a 15, 16 a 17 e Maiores de 18 anos
+            - Marcar: O App não é atrativo para crianças;
+
