@@ -80,11 +80,13 @@ Passo a passo de como postar o prime nas lojas, PlayStore e AppStore
    - Versão principal da página "Detalhes do app"
       - Nome do app: nome do prime 
       - Breve descrição: Aplicativo destinado para agendamento no estabelecimento **"nome do prime"** 
-      - Descrição completa: "Aplicativo destinado para agendamento no estabelecimento **"nome do prime"** 
+      - Descrição completa:
+         - Aplicativo destinado para agendamento no estabelecimento **"nome do prime"** 
           - Receba notificações para não esquecer seu agendamento
           - Acompanhe seu histórico de atendimentos
           - Visualize os pontos de fidelidade e resgate itens
-     "
+          
+          
      - Elementos graficos:
          - Ícone do aplicativo
                - Adicionar logo 512x512
@@ -93,3 +95,14 @@ Passo a passo de como postar o prime nas lojas, PlayStore e AppStore
                - Adicionar banner 1024x500 
          - Telefone
                - Adicionar as 4 artes do androids 
+               
+   - Configurações da loja
+      - App ou Jogo:
+         - App
+      - Categoria:
+         - Beleza
+      - Email: 
+         - contato@starapp.com.br
+   - Produção:
+      - Países / regiões
+         - Marcar todos os paises disponiveis
